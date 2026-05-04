@@ -167,6 +167,23 @@ NOTE_COLORS         = [...]   # color palette list
 
 ---
 
+## 📦 Installation
+
+### Lite Edition (Free)
+1. Download the latest release from the [Releases](https://github.com/j3fcruz/avernus-notes-lite/releases) section
+2. Extract the `.zip` package
+3. Run `AvernusNotesLite.exe`
+4. Start taking notes instantly!
+
+### Full Edition (Commercial)
+1. Purchase and download from [Gumroad](https://patronhubdevs.gumroad.com/l/lgaqim)
+2. Extract the `.zip` package
+3. Run `AvernusNotes.exe`
+4. Set your master password on first launch
+5. (Optional) Configure keyfile authentication
+
+---
+
 ## 📄 License
 
 MIT License — free for personal and commercial use.
