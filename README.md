@@ -170,7 +170,7 @@ NOTE_COLORS         = [...]   # color palette list
 ## 📦 Installation
 
 ### Lite Edition (Free)
-1. Download the latest release from the [Releases](https://github.com/j3fcruz/avernus-notes-lite/releases) section
+1. Download the latest release from the [Releases](https://github.com/j3fcruz/avenus-notes-lite/releases/tag/avernus-notes-lite-v1.0.0) section
 2. Extract the `.zip` package
 3. Run `AvernusNotesLite.exe`
 4. Start taking notes instantly!
